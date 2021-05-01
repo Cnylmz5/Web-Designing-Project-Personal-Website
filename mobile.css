@@ -1,0 +1,151 @@
+@media (max-width: 1100px) {
+    nav .nav-items .logo{
+        margin-left: 1rem;
+    }
+    header .header-items .header-text .left h1{
+        margin-left: 1rem;
+        font-size: 40px;
+        line-height: 1.5;
+    }
+    #education .education-items{
+    
+        margin-left: 1rem;
+    }
+    #equipment .equipment-items .equipment-img img{
+        width: 550px;
+        height: 500px;
+    }
+}
+  @media (max-width: 1050px) {
+    header .header-items .header-text .left h1{
+        font-size: 35px;
+    }
+    header .header-items .header-img img{
+        width: 430px;
+        height: 400px;
+    }
+}
+@media (max-width: 1000px) {
+    #education .education-items{
+        display: flex;
+        flex-direction: column;
+    }
+    #equipment .equipment-items{
+        display: flex;
+        flex-direction: column;
+    }
+    #equipment .equipment-items .equipment-img img{
+        width: 500px;
+        height: 420px;
+    }
+    #portfolio .portfolio-items .img img{
+        width: 250px;
+        height: 200px;
+    }
+}
+
+@media (max-width: 900px) {
+    header .header-items .header-text .left h1{
+        font-size: 30px;
+    }
+    header .header-items .header-img img{
+        width: 400px;
+        height: 360px;
+    }
+}
+@media (max-width: 850px) {
+    header .header-items .header-text .right h3{
+        font-size: 18px;
+    }
+    header .header-items .header-text .left h1{
+        font-size: 27px;
+    }
+    header .header-items .header-img img{
+        width: 360px;
+        height: 320px;
+    }
+}
+@media (max-width: 800px) {
+    #portfolio .portfolio-items .img img{
+        width: 200px;
+        height: 150px;
+    }
+    }
+@media (max-width: 750px) {
+    header .header-items .header-text .left h1{
+        font-size: 25px;
+    }
+    header .header-items .header-img img{
+        width: 320px;
+        height: 290px;
+    }
+}
+@media (max-width: 700px) {
+    header .header-items{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    header .header-items .header-text .left hr{
+        text-align: center;
+        margin-left: 5rem;
+    }
+    #burger-menu{
+        display: block;
+        font-size: 30px;
+        margin-right: 2rem;
+    }
+    nav .nav-items .nav-menu ul li{
+        display: none;
+    }
+    #about .about-items{
+        display: flex;
+        flex-direction: column;
+    }
+    #about .about-items .about-text h3{
+        margin-top: 2rem;
+        
+    }
+    #about .about-items .about-text p{
+        font-size: 16px;
+        width: 90%;
+    }
+    #education .education-items{
+        display: flex;
+        flex-direction: column;
+        margin-left: 1rem;
+        
+    }
+    #education .education-items .educations h3{
+        font-size: 30px;
+    }
+    #equipment .equipment-items{
+        display: flex;
+        flex-direction: column;
+    }
+    #equipment .equipment-items .equipment-img img{
+        display: none;
+    }
+    #equipment .equipment-items .languages-tools .languages .languages-img{
+        display: grid;
+        grid-template-columns: auto auto ;
+        
+    }
+    #equipment .equipment-items .languages-tools .languages .languages-img img{
+        margin-top: 2rem;
+    }
+    #equipment .equipment-items .languages-tools .languages hr{
+        width: 200px;
+        margin-top: 0.3rem;
+    }
+    #portfolio .portfolio-items{
+        display: flex;
+        flex-direction: column;
+    }
+    #portfolio .portfolio-items .img img{
+        width: 270px;
+        height: 220px;
+    }
+    
+    
+}

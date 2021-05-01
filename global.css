@@ -1,0 +1,21 @@
+/* Fonts */
+
+.satisfy{
+    font-family: 'Satisfy', cursive;
+}
+.timesnewroman{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Colors */
+
+.grey{
+    background-color: #606470;
+}
+.light-grey{
+    background-color: #E8ECED;
+}
+.dark-grey{
+    background-color: #323643;
+}
+
