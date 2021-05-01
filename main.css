@@ -342,3 +342,6 @@ footer h4{
     opacity: 0.9;
     text-align: center;
 }
+footer span{
+    text-shadow: 2px 1px 4px #323643;
+}
