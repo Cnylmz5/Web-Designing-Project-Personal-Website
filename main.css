@@ -239,6 +239,11 @@ header .header-items .header-img img:hover{
 #equipment .equipment-items .languages-tools .languages .languages-img img{
     width: 600;
     height: 500;
+    cursor: pointer;
+    transition: box-shadow 0.5s;
+}
+#equipment .equipment-items .languages-tools .languages .languages-img img:hover{
+    box-shadow: 1px 5px 2px #323643;
 }
 #equipment .equipment-items .equipment-img img{
     width: 670px;
