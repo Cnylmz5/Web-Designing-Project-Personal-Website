@@ -266,6 +266,7 @@ header .header-items .header-img img:hover{
 #portfolio h2{
     text-align: center;
     font-size: 40px;
+    text-shadow: 2px 1px 4px #323643;
 }
 #portfolio .portfolio-items{
     display: flex;
